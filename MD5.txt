@@ -3,11 +3,12 @@
 
 待更新文件(
 
-AndroidModifer.exe(39d75a57d4cdb33b8267ac403b0a01a5)
+AndroidModifer.exe(ca6197f4378e9fe81ac6f73e52bf459b)
 LICENSE(18ac109214643901234f0d35231465a9)
 MD5_0.txt(3f46b72793e37d46b512ed7960d9381a)
-README.en.md(59f73e4e9ac94b6fc67536d79a508ded)
-README.md(7163db4bd275ec3bb7d5da1ca9f75237)
+note.html(690b2b8f6e7cd4ae5527e16db6779714)
+README.en.md(735a86bc159b0aba864435ff0b3587a9)
+README.md(735a86bc159b0aba864435ff0b3587a9)
 AndroidModifer_tools/apktool.jar(cc057205e7b3a2352383a8cbe52e788)
 AndroidModifer_tools/getApkSignInfo.jar(1a8754b73b7212436d1921bbf3212178)
 AndroidModifer_tools/java.exe(7f9849d09cf783ff0a714bdc5c386121)
@@ -19,5 +20,13 @@ AndroidModifer_tools/signs/downjoy.keystore(5311e8894a5ca81140feb2bc16681d9a)
 AndroidModifer_tools/signs/keystoreInfo.txt(7016f7c170a6b0ba82563234a2925708)
 files/AndroidModifer_20190423.7z.zip(1d811f21454870fdd2683bc9b53b2105)
 files/AndroidModifer_20190423.exe(39d75a57d4cdb33b8267ac403b0a01a5)
+files/AndroidModifer_20190424.7z.zip(df67139a9cae7eefc6a8e6cb1f64fc7e)
+files/AndroidModifer_20190424.exe(ca6197f4378e9fe81ac6f73e52bf459b)
+files/pic/1.ico(2784f5f77c645ce4d41b6b945ffed315)
+files/pic/AndroidModifer.png(88a8bea7459769034fd7cb65739c911b)
+files/pic/apk打包.png(5b8082e3347684636907c0da501678ec)
+files/pic/apk签名.png(43451cf2e54fdb3ca21cd8e5ec49b98e)
+files/pic/apk解包.png(d0f6a5a9ec67785a3550f75164880a50)
+files/pic/查看签名信息.png(5882ca6bfe43cbeee7d534034d9f8bea)
 
 )待更新文件
