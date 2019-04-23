@@ -7,15 +7,19 @@
 
 ![1](https://scimence.gitee.io/AndroidModifer/files/pic/AndroidModifer.png)
 
-1. 查看签名
+#### 1. 查看签名
+
 ![1](https://scimence.gitee.io/AndroidModifer/files/pic/查看签名信息.png)
 
-2. apk解包
+#### 2. apk解包
+
 ![1](https://scimence.gitee.io/AndroidModifer/files/pic/apk解包.png)
 
-3. apk打包
+#### 3. apk打包
+
 ![1](https://scimence.gitee.io/AndroidModifer/files/pic/apk打包.png)
 
-4. apk签名
+#### 4. apk签名
+
 ![1](https://scimence.gitee.io/AndroidModifer/files/pic/apk签名.png)
 
