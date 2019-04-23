@@ -1,4 +1,4 @@
-﻿服务器资源目录(https://gitee.com/scimence/AndroidModifer/raw/master/)
+﻿服务器资源目录(https://scimence.gitee.io/AndroidModifer/)
 本地资源目录(E:\SVN\workSpace\AndroidModifer\)
 
 待更新文件(
