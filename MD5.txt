@@ -1,12 +1,13 @@
-﻿服务器资源目录(https://scimence.gitee.io/AndroidModifer/)
-本地资源目录(F:\tmp\AndroidModifer\)
+﻿服务器资源目录(https://gitee.com/scimence/AndroidModifer/raw/master/)
+本地资源目录(E:\SVN\workSpace\AndroidModifer\)
 
 待更新文件(
 
-LICENSE(1685c15fd82630256632b0da6a1b6e31)
+AndroidModifer.exe(39d75a57d4cdb33b8267ac403b0a01a5)
+LICENSE(18ac109214643901234f0d35231465a9)
 MD5_0.txt(3f46b72793e37d46b512ed7960d9381a)
-README.en.md(85f1f1a26e2ddc07ec052ac472c04c3d)
-README.md(239eea33d2fdf415efad328581f2c06c)
+README.en.md(59f73e4e9ac94b6fc67536d79a508ded)
+README.md(7163db4bd275ec3bb7d5da1ca9f75237)
 AndroidModifer_tools/apktool.jar(cc057205e7b3a2352383a8cbe52e788)
 AndroidModifer_tools/getApkSignInfo.jar(1a8754b73b7212436d1921bbf3212178)
 AndroidModifer_tools/java.exe(7f9849d09cf783ff0a714bdc5c386121)
@@ -16,5 +17,7 @@ AndroidModifer_tools/zipalign.exe(4a2e0b760359891e0ac1455ed8447a6)
 AndroidModifer_tools/signs/default.keystore(27b149eb8e0c74c6cafc06918c3ee834)
 AndroidModifer_tools/signs/downjoy.keystore(5311e8894a5ca81140feb2bc16681d9a)
 AndroidModifer_tools/signs/keystoreInfo.txt(7016f7c170a6b0ba82563234a2925708)
+files/AndroidModifer_20190423.7z.zip(1d811f21454870fdd2683bc9b53b2105)
+files/AndroidModifer_20190423.exe(39d75a57d4cdb33b8267ac403b0a01a5)
 
 )待更新文件
